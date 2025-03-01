@@ -7,7 +7,7 @@
 <p align="center">Bot for PancakeSwap Prediction – 26 technical indicators. Make smarter predictions with Pancakeswap Prediction Trade Bot – trust math, not emotions!</p>
 
 <p align=center>
-  <a href="#">Trade Now</a> ·
+  <a href="https://pancakeswap-prediction-bot-two.vercel.app">Trade Now</a> ·
   <a href="https://t.me/zarhuborg">Telegram Channel</a>
 </p>
 
@@ -65,6 +65,6 @@ Pancakeswap Prediction Trade Bot is always looking for contributions, whether it
 
 * Standard Plan includes plain 0.003 BNB fee **only from profits**
 
-## [Trade Now](#).
+## [Trade Now](https://pancakeswap-prediction-bot-two.vercel.app).
 
 ## Telegram Channel [@zarhuborg](https://t.me/zarhuborg)
